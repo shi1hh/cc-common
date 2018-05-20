@@ -1,0 +1,8 @@
+export {wxHttpClient, RequestAction} from "./wxhttpclient"
+export {wxSession} from "./wxsession"
+export {wxStorage} from "./wxstorage"
+export {wxTip} from "./wxtips"
+export {wxSetting, WxScope} from "./wxsetting"
+export {wxShare} from "./wxshare"
+export {wxFunc} from "./wxfuncs"
+export {wxOpenData, WxOpenDataKeys, WxDomainAction, WxDomainMessage} from "./wxopendata"
